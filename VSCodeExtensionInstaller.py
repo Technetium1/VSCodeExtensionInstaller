@@ -37,7 +37,7 @@ if which("./VSCodeExtensions.txt") is None:
     raise SystemExit
 
 with open("VSCodeExtensions.txt", "r") as file:
-    extensions = file.read().splitlines()
+    extensions = file.readlines()
 
 for extension in extensions:
     print("Installing " + extension)
