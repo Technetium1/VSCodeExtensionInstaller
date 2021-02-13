@@ -7,7 +7,6 @@ AlanWalk.markdown-toc
 alefragnani.Bookmarks
 alexcvzz.vscode-sqlite
 Alexey-Strakh.stackoverflow-search
-antfu.i18n-ally
 aramok.aramoks-black
 arturock.gitstash
 asilverio.blackai-visual-studio-code
@@ -29,6 +28,7 @@ bpruitt-goddard.mermaid-markdown-syntax-highlighting
 bungcip.better-toml
 christian-kohler.path-intellisense
 cliffordfajardo.highlight-line-vscode
+codespaces-contrib.codeswing
 CoenraadS.bracket-pair-colorizer
 cschleiden.vscode-github-actions
 csholmq.excel-to-markdown-table
@@ -43,6 +43,7 @@ dbankier.vscode-instant-markdown
 deepcode.deepcode
 donjayamanne.githistory
 DotJoshJohnson.xml
+drphrozen.escaping-characters
 dt.ghlink
 eamodio.gitlens
 ecmel.vscode-html-css
@@ -75,7 +76,6 @@ idleberg.icon-fonts
 igress.python-coding-conventions
 ionutvmi.path-autocomplete
 jock.svg
-kalitaalexey.vscode-rust
 kinoooshnik.search-for-errors-on-stackoverflow
 KnisterPeter.vscode-github
 Koihik.vscode-lua-format
@@ -83,6 +83,7 @@ lamartire.git-indicators
 lextudio.restructuredtext
 lihui.vs-color-picker
 littlefoxteam.vscode-python-test-adapter
+lokalise.i18n-ally
 lorenzopirro.v-snippets
 lostintangent.vsls-whiteboard
 mads-hartmann.bash-ide-vscode
@@ -95,7 +96,6 @@ michelemelluso.code-beautifier
 mikestead.dotenv
 mkaufman.HTMLHint
 mkloubert.vscode-kanban
-mkloubert.vscode-remote-workspace
 mkxml.vscode-filesize
 mrmlnc.vscode-autoprefixer
 ms-azuretools.vscode-docker
@@ -121,6 +121,7 @@ msjsdiag.debugger-for-chrome
 mtxr.sqltools
 myxvisual.vscode-ts-uml
 naumovs.color-highlight
+nexusoft.replace-selection
 njpwerner.autodocstring
 octref.vetur
 oderwat.indent-rainbow
@@ -149,19 +150,20 @@ shardulm94.trailing-spaces
 shd101wyy.markdown-preview-enhanced
 sidthesloth.html5-boilerplate
 SirTori.indenticator
+softwareape.numbermonger
 softwaredotcom.swdc-vscode
 streetsidesoftware.code-spell-checker
 sumneko.lua
 syler.sass-indented
 techer.open-in-browser
 telesoho.vscode-markdown-paste-image
+thegtproject.hoverhex
 tomoyukim.vscode-mermaid-editor
 truman.autocomplate-shell
 tushortz.python-extended-snippets
 usernamehw.errorlens
 vaniship.vue-ls
 vincaslt.highlight-matching-tag
-vincentkos.snippet-creator
 VisualStudioExptTeam.vscodeintellicode
 vsciot-vscode.vscode-arduino
 vscode-icons-team.vscode-icons
@@ -172,6 +174,7 @@ WallabyJs.quokka-vscode
 wholroyd.jinja
 wix.vscode-import-cost
 yatki.vscode-surround
+yrpark99.hex-ascii-converter
 yzane.markdown-pdf
 yzhang.markdown-all-in-one
 zhfjyq.vscode-plugin-drawio
