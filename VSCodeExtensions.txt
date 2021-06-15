@@ -60,6 +60,7 @@ formulahendry.auto-rename-tag
 formulahendry.code-runner
 foxundermoon.shell-format
 funkyremi.vscode-google-translate
+GitHub.remotehub
 GitHub.vscode-pull-request-github
 goessner.mdmath
 golang.go
@@ -97,6 +98,7 @@ mikestead.dotenv
 mkaufman.HTMLHint
 mkloubert.vscode-kanban
 mkxml.vscode-filesize
+moshfeu.vscode-medium-to-markdown
 mrmlnc.vscode-autoprefixer
 ms-azuretools.vscode-docker
 ms-dotnettools.csharp
@@ -113,6 +115,7 @@ ms-vscode.cpptools
 ms-vscode.github-issues-prs
 ms-vscode.hexeditor
 ms-vscode.powershell
+ms-vscode.test-adapter-converter
 ms-vscode.vscode-typescript-next
 ms-vscode.vscode-typescript-tslint-plugin
 ms-vsliveshare.vsliveshare
@@ -152,6 +155,7 @@ sidthesloth.html5-boilerplate
 SirTori.indenticator
 softwareape.numbermonger
 softwaredotcom.swdc-vscode
+sourcery.sourcery
 streetsidesoftware.code-spell-checker
 sumneko.lua
 syler.sass-indented
