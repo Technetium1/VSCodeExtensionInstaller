@@ -1,6 +1,6 @@
 # VSCodeExtensionInstaller
 
-[![HitCount](https://hits.dwyl.com/Technetium1/VSCodeExtensionInstaller.svg)](https://hits.dwyl.com/Technetium1/VSCodeExtensionInstaller) ![GitHub All Releases](https://img.shields.io/github/downloads/Technetium1/VSCodeExtensionInstaller/total?color=24CC11&label=Total%20Downloads&logo=GitHub)
+![HitCounter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTechnetium1%2FVSCodeExtensionInstaller&count_bg=%2300AEFF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false) ![GitHub All Releases](https://img.shields.io/github/downloads/Technetium1/VSCodeExtensionInstaller/total?color=24CC11&label=Total%20Downloads&logo=GitHub)
 
 ---
 
