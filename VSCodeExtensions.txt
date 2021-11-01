@@ -31,6 +31,7 @@ CoenraadS.bracket-pair-colorizer
 cschleiden.vscode-github-actions
 csholmq.excel-to-markdown-table
 cssho.vscode-svgviewer
+cweijan.vscode-office
 darkriszty.markdown-table-prettify
 Dart-Code.dart-code
 DavidAnson.vscode-markdownlint
@@ -43,6 +44,7 @@ donjayamanne.githistory
 DotJoshJohnson.xml
 drphrozen.escaping-characters
 dt.ghlink
+dubadub.cook
 eamodio.gitlens
 ecmel.vscode-html-css
 eliostruyf.vscode-front-matter
@@ -52,6 +54,7 @@ esbenp.prettier-vscode
 evgeniypeshkov.syntax-highlighter
 fabiospampinato.vscode-diff
 febean.vue-format
+file-icons.file-icons
 firefox-devtools.vscode-firefox-debug
 fivethree.vscode-hugo-snippets
 formulahendry.auto-close-tag
@@ -96,6 +99,7 @@ mdickin.markdown-shortcuts
 mechatroner.rainbow-csv
 mhutchie.git-graph
 michelemelluso.code-beautifier
+miguelsolorio.fluent-icons
 mikestead.dotenv
 mkaufman.HTMLHint
 mkloubert.vscode-kanban
@@ -171,6 +175,7 @@ techer.open-in-browser
 telesoho.vscode-markdown-paste-image
 thegtproject.hoverhex
 tomoyukim.vscode-mermaid-editor
+trond-snekvik.simple-rst
 truman.autocomplate-shell
 tushortz.python-extended-snippets
 usernamehw.errorlens
