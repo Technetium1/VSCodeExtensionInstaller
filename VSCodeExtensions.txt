@@ -9,13 +9,13 @@ aramok.aramoks-black
 arturock.gitstash
 asilverio.blackai-visual-studio-code
 bajdzis.vscode-database
-ban.spellright
-bat67.markdown-extension-pack
 bierner.color-info
 bierner.emojisense
 bierner.github-markdown-preview
 bierner.markdown-checkbox
 bierner.markdown-emoji
+bierner.markdown-footnotes
+bierner.markdown-mermaid
 bierner.markdown-preview-github-styles
 bierner.markdown-yaml-preamble
 bmewburn.vscode-intelephense-client
@@ -31,7 +31,6 @@ CoenraadS.bracket-pair-colorizer
 cschleiden.vscode-github-actions
 csholmq.excel-to-markdown-table
 cssho.vscode-svgviewer
-cweijan.vscode-office
 darkriszty.markdown-table-prettify
 Dart-Code.dart-code
 DavidAnson.vscode-markdownlint
@@ -47,6 +46,7 @@ dt.ghlink
 dubadub.cook
 eamodio.gitlens
 ecmel.vscode-html-css
+EditorConfig.EditorConfig
 eliostruyf.vscode-front-matter
 ericadamski.carbon-now-sh
 erichbehrens.pull-request-monitor
@@ -70,11 +70,9 @@ GitHub.remotehub
 GitHub.vscode-pull-request-github
 goessner.mdmath
 golang.go
-hancel.google-translate
 hbenl.vscode-test-explorer
 hnw.vscode-auto-open-markdown-preview
 HookyQR.beautify
-hoovercj.vscode-power-mode
 huizhou.githd
 IBM.output-colorizer
 icrawl.discord-vscode
@@ -110,6 +108,7 @@ ms-azuretools.vscode-docker
 ms-dotnettools.csharp
 ms-mssql.data-workspace-vscode
 ms-mssql.mssql
+ms-mssql.sql-bindings-vscode
 ms-mssql.sql-database-projects-vscode
 ms-python.python
 ms-python.vscode-pylance
@@ -119,13 +118,13 @@ ms-toolsai.jupyter-renderers
 ms-vscode-remote.remote-containers
 ms-vscode-remote.remote-ssh
 ms-vscode-remote.remote-ssh-edit
-ms-vscode-remote.remote-wsl
 ms-vscode-remote.vscode-remote-extensionpack
 ms-vscode.cpptools
 ms-vscode.github-issues-prs
 ms-vscode.hexeditor
 ms-vscode.live-server
 ms-vscode.powershell
+ms-vscode.remote-repositories
 ms-vscode.test-adapter-converter
 ms-vscode.vscode-typescript-next
 ms-vscode.vscode-typescript-tslint-plugin
@@ -139,9 +138,8 @@ njpwerner.autodocstring
 octref.vetur
 oderwat.indent-rainbow
 olback.es6-css-minify
-onecentlin.laravel-blade
-onecentlin.laravel5-snippets
 orepor.color-tabs-vscode-ext
+PascalReitermann93.vscode-yaml-sort
 peakchen90.vue-beautify
 pflannery.vscode-versionlens
 PKief.material-icon-theme
@@ -149,13 +147,13 @@ pnp.polacode
 pranaygp.vscode-css-peek
 qezhu.gitlink
 quicktype.quicktype
+redhat.vscode-xml
 redhat.vscode-yaml
 Remisa.shellman
 ritwickdey.LiveServer
 rogalmic.bash-debug
 rpinski.shebang-snippets
 Rubymaniac.vscode-paste-and-indent
-ryannaddy.laravel-artisan
 ryu1kn.partial-diff
 ryu1kn.text-marker
 shakram02.bash-beautify
@@ -167,6 +165,7 @@ SirTori.indenticator
 snyk-security.snyk-vulnerability-scanner
 softwareape.numbermonger
 softwaredotcom.swdc-vscode
+sourcegraph.sourcegraph
 sourcery.sourcery
 streetsidesoftware.code-spell-checker
 sumneko.lua
@@ -174,6 +173,7 @@ syler.sass-indented
 techer.open-in-browser
 telesoho.vscode-markdown-paste-image
 thegtproject.hoverhex
+Tim-Koehler.helm-intellisense
 tomoyukim.vscode-mermaid-editor
 trond-snekvik.simple-rst
 truman.autocomplate-shell
@@ -189,6 +189,7 @@ vsls-contrib.gistfs
 vstirbu.vscode-mermaid-preview
 WallabyJs.quokka-vscode
 wholroyd.jinja
+wix.glean
 wix.vscode-import-cost
 yatki.vscode-surround
 yrpark99.hex-ascii-converter
