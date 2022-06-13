@@ -12,4 +12,7 @@
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/51UQmrmjMXL.png" width="200" height="200" alt="Powered by Python 3" title="Powered by Python 3">](https://www.python.org/)
 
-[<img src="https://www.pyinstaller.org/_images/pyinstaller-draft1c-header-trans.png" width="450" height="100" alt="Powered by Pyinstaller" title="Powered by Pyinstaller">](https://www.pyinstaller.org/)
+[<img src="https://github.com/Technetium1/VSCodeExtensionInstaller/raw/master/PyinstallerTransparentLogoWide.png" width="450" height="100" alt="Powered by Pyinstaller" title="Powered by Pyinstaller">](https://www.pyinstaller.org/)
+
+## Star the project to show your support!
+[![Stargazers repo roster for @Technetium1/VSCodeExtensionInstaller](https://reporoster.com/stars/Technetium1/VSCodeExtensionInstaller)](https://github.com/Technetium1/VSCodeExtensionInstaller/stargazers)
