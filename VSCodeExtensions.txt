@@ -38,6 +38,8 @@ davidrockburn.py-pack
 dbaeumer.jshint
 dbaeumer.vscode-eslint
 dbankier.vscode-instant-markdown
+dendron.dendron
+dendron.dendron-paste-image
 dongli.python-preview
 donjayamanne.githistory
 DotJoshJohnson.xml
@@ -65,7 +67,6 @@ foxundermoon.shell-format
 funkyremi.vscode-google-translate
 gencer.html-slim-scss-css-class-completion
 GitHub.codespaces
-GitHub.copilot
 GitHub.remotehub
 GitHub.vscode-pull-request-github
 goessner.mdmath
