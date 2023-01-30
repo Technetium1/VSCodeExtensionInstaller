@@ -8,7 +8,7 @@
 [![Discord](https://discordapp.com/api/guilds/260151582337794058/widget.png?style=banner3)](https://discord.com/widget?id=260151582337794058&theme=dark)
 
 ---
-### Powered by [Python 3.9](https://www.python.org/) and [Pyinstaller](http://www.pyinstaller.org/)
+### Powered by [Python 3](https://www.python.org/) and [Pyinstaller](http://www.pyinstaller.org/)
 
 [<img src="https://images-na.ssl-images-amazon.com/images/I/51UQmrmjMXL.png" width="200" height="200" alt="Powered by Python 3" title="Powered by Python 3">](https://www.python.org/)
 
