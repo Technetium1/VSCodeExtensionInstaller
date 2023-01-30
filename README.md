@@ -4,7 +4,7 @@
 
 ---
 
-## [Download for Windows 10+](https://github.com/Technetium1/VSCodeExtensionInstaller/releases)
+## [Download latest release for Windows 10+](https://github.com/Technetium1/VSCodeExtensionInstaller/releases/latest/download/VSCodeExtensionInstaller.exe)
 - Python not required
 - Expects VS Code to already be installed
 - Populate your own list: `code --list-extensions>VSCodeExtensions.txt`
