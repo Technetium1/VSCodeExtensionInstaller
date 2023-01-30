@@ -7,7 +7,7 @@ python -m pip install -U -r requirements.txt
 pyinstaller -F -i vscode.ico --clean VSCodeExtensionInstaller.py
 ECHO Copying VSCodeExtensions.txt
 COPY .\VSCodeExtensions.txt .\dist\VSCodeExtensions.txt
-RMDIR /S /Q build __pycache__
+RMDIR /S /Q build
 DEL /q VSCodeExtensionInstaller.spec
 ECHO Done! File is located in %~dp0dist
 PAUSE
