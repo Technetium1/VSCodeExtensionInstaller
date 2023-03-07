@@ -5,9 +5,9 @@ akamud.vscode-caniuse
 alefragnani.Bookmarks
 alexcvzz.vscode-sqlite
 Alexey-Strakh.stackoverflow-search
+anweber.httpbook-monacorenderer
 aramok.aramoks-black
 arturock.gitstash
-asilverio.blackai-visual-studio-code
 bajdzis.vscode-database
 bierner.color-info
 bierner.emojisense
