@@ -33,6 +33,7 @@ cliffordfajardo.highlight-line-vscode
 csholmq.excel-to-markdown-table
 cshum.convert-newline-list-to-array
 DanielSanMedium.dscodegpt
+dariofuzinato.vue-peek
 darkriszty.markdown-table-prettify
 Dart-Code.dart-code
 DavidAnson.vscode-markdownlint
@@ -76,6 +77,7 @@ golang.go
 hbenl.vscode-test-explorer
 hediet.vscode-drawio
 hnw.vscode-auto-open-markdown-preview
+hollowtree.vue-snippets
 HTMLHint.vscode-htmlhint
 huizhou.githd
 IBM.output-colorizer
@@ -149,6 +151,7 @@ rpinski.shebang-snippets
 Rubymaniac.vscode-paste-and-indent
 ryu1kn.partial-diff
 ryu1kn.text-marker
+sdras.vue-vscode-snippets
 shakram02.bash-beautify
 shanoor.vscode-nginx
 shardulm94.trailing-spaces
@@ -177,6 +180,8 @@ VisualStudioExptTeam.vscodeintellicode
 vscode-icons-team.vscode-icons
 vsls-contrib.gistfs
 vstirbu.vscode-mermaid-preview
+Vue.volar
+Vue.vscode-typescript-vue-plugin
 wholroyd.jinja
 wix.vscode-import-cost
 yatki.vscode-surround
