@@ -35,10 +35,12 @@ dariofuzinato.vue-peek
 darkriszty.markdown-table-prettify
 Dart-Code.dart-code
 Dart-Code.flutter
+DavidAnson.vscode-markdownlint
 dbaeumer.vscode-eslint
 dendron.dendron
 dendron.dendron-markdown-shortcuts
 dendron.dendron-paste-image
+donjayamanne.githistory
 DotJoshJohnson.xml
 drphrozen.escaping-characters
 dt.ghlink
