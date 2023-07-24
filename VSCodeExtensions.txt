@@ -23,7 +23,6 @@ bmewburn.vscode-intelephense-client
 bodil.prettier-toml
 bpruitt-goddard.mermaid-markdown-syntax-highlighting
 budparr.language-hugo-vscode
-bungcip.better-toml
 charliermarsh.ruff
 christian-kohler.path-intellisense
 chrmarti.regex
@@ -161,6 +160,7 @@ softwareape.numbermonger
 sourcery.sourcery
 sumneko.lua
 syler.sass-indented
+tamasfe.even-better-toml
 techer.open-in-browser
 thegtproject.hoverhex
 Tim-Koehler.helm-intellisense
