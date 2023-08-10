@@ -27,6 +27,7 @@ charliermarsh.ruff
 christian-kohler.path-intellisense
 chrmarti.regex
 cliffordfajardo.highlight-line-vscode
+Continue.continue
 csholmq.excel-to-markdown-table
 cshum.convert-newline-list-to-array
 DanielSanMedium.dscodegpt
@@ -137,6 +138,7 @@ PascalReitermann93.vscode-yaml-sort
 pflannery.vscode-versionlens
 PKief.material-icon-theme
 pnp.polacode
+Prisma.prisma
 qezhu.gitlink
 quicktype.quicktype
 rbuckton.deoptexplorer-vscode
