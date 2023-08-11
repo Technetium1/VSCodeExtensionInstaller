@@ -74,6 +74,7 @@ hediet.vscode-drawio
 hnw.vscode-auto-open-markdown-preview
 hollowtree.vue-snippets
 HTMLHint.vscode-htmlhint
+HuggingFace.huggingface-vscode
 huizhou.githd
 IBM.output-colorizer
 icrawl.discord-vscode
