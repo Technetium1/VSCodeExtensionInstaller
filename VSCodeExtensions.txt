@@ -30,6 +30,7 @@ cliffordfajardo.highlight-line-vscode
 Continue.continue
 csholmq.excel-to-markdown-table
 cshum.convert-newline-list-to-array
+curlconverter.curlconverter
 DanielSanMedium.dscodegpt
 dariofuzinato.vue-peek
 darkriszty.markdown-table-prettify
@@ -63,7 +64,6 @@ foxundermoon.shell-format
 funkyremi.vscode-google-translate
 gencer.html-slim-scss-css-class-completion
 GitHub.codespaces
-GitHub.copilot
 GitHub.remotehub
 github.vscode-github-actions
 GitHub.vscode-pull-request-github
@@ -105,7 +105,10 @@ mrmlnc.vscode-autoprefixer
 ms-1es.pull-request-quantifier
 ms-azuretools.vscode-docker
 ms-dotnettools.csharp
+ms-dotnettools.vscode-dotnet-runtime
+ms-kubernetes-tools.vscode-kubernetes-tools
 ms-python.autopep8
+ms-python.black-formatter
 ms-python.isort
 ms-python.python
 ms-python.vscode-pylance
@@ -117,7 +120,9 @@ ms-toolsai.vscode-jupyter-slideshow
 ms-vscode-remote.remote-containers
 ms-vscode-remote.remote-ssh
 ms-vscode-remote.remote-ssh-edit
+ms-vscode-remote.remote-wsl
 ms-vscode-remote.vscode-remote-extensionpack
+ms-vscode.azure-repos
 ms-vscode.cpptools
 ms-vscode.hexeditor
 ms-vscode.live-server
