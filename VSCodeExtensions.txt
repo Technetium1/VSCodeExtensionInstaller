@@ -5,10 +5,12 @@ akamud.vscode-caniuse
 alefragnani.bookmarks
 alexcvzz.vscode-sqlite
 alexey-strakh.stackoverflow-search
+amazonwebservices.amazon-q-vscode
 amazonwebservices.aws-toolkit-vscode
 anbuselvanrocky.bootstrap5-vscode
 anweber.httpbook-monacorenderer
 aramok.aramoks-black
+arcanis.vscode-zipfs
 arturock.gitstash
 bierner.color-info
 bierner.emojisense
@@ -159,6 +161,7 @@ ritwickdey.liveserver
 rogalmic.bash-debug
 rpinski.shebang-snippets
 rubymaniac.vscode-paste-and-indent
+rust-lang.rust-analyzer
 ryu1kn.partial-diff
 ryu1kn.text-marker
 sdras.vue-vscode-snippets
@@ -170,7 +173,10 @@ shd101wyy.markdown-preview-enhanced
 sidthesloth.html5-boilerplate
 sirtori.indenticator
 softwareape.numbermonger
+souche.vscode-mindmap
 sourcery.sourcery
+streetsidesoftware.code-spell-checker
+styled-components.vscode-styled-components
 sumneko.lua
 syler.sass-indented
 tailscale.vscode-tailscale
