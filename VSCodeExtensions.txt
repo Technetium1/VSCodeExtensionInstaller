@@ -24,6 +24,7 @@ bierner.markdown-yaml-preamble
 bmewburn.vscode-intelephense-client
 bodil.prettier-toml
 bpruitt-goddard.mermaid-markdown-syntax-highlighting
+bradlc.vscode-tailwindcss
 budparr.language-hugo-vscode
 charliermarsh.ruff
 christian-kohler.npm-intellisense
@@ -43,8 +44,7 @@ dart-code.flutter
 davidanson.vscode-markdownlint
 dbaeumer.vscode-eslint
 dendron.dendron
-dendron.dendron-markdown-shortcuts
-dendron.dendron-paste-image
+docker.docker
 donjayamanne.githistory
 donjayamanne.python-environment-manager
 dotjoshjohnson.xml
@@ -78,7 +78,6 @@ hediet.vscode-drawio
 hnw.vscode-auto-open-markdown-preview
 hollowtree.vue-snippets
 htmlhint.vscode-htmlhint
-huggingface.huggingface-vscode
 huizhou.githd
 ibm.output-colorizer
 icrawl.discord-vscode
@@ -108,11 +107,13 @@ mikestead.dotenv
 mkxml.vscode-filesize
 mrmlnc.vscode-autoprefixer
 mrmlnc.vscode-scss
-ms-1es.pull-request-quantifier
+ms-azuretools.vscode-containers
 ms-azuretools.vscode-docker
+ms-dotnettools.csdevkit
 ms-dotnettools.csharp
 ms-dotnettools.vscode-dotnet-runtime
 ms-kubernetes-tools.vscode-kubernetes-tools
+ms-ossdata.vscode-pgsql
 ms-playwright.playwright
 ms-python.autopep8
 ms-python.black-formatter
@@ -157,6 +158,8 @@ pflannery.vscode-versionlens
 pkief.material-icon-theme
 pnp.polacode
 prisma.prisma
+privy.privy-vscode
+ptweir.python-string-sql
 qezhu.gitlink
 quicktype.quicktype
 radicle-ide-plugins-team.radicle
@@ -165,6 +168,7 @@ redhat.java
 redhat.vscode-xml
 redhat.vscode-yaml
 reditorsupport.r
+reditorsupport.r-syntax
 remisa.shellman
 rhaiscript.vscode-rhai
 ritwickdey.liveserver
@@ -190,16 +194,16 @@ swyddfa.esbonio
 syler.sass-indented
 tailscale.vscode-tailscale
 tamasfe.even-better-toml
+tauri-apps.tauri-vscode
 techer.open-in-browser
 thegtproject.hoverhex
 tim-koehler.helm-intellisense
-timkmecl.chatgpt
+tobermory.es6-string-html
 tomoki1207.pdf
 tomoyukim.vscode-mermaid-editor
 trond-snekvik.simple-rst
 truman.autocomplate-shell
 tushortz.python-extended-snippets
-twxs.cmake
 urin.vscode-web-visual-editor
 usernamehw.errorlens
 vincaslt.highlight-matching-tag
@@ -224,3 +228,4 @@ wix.vscode-import-cost
 yatki.vscode-surround
 yrpark99.hex-ascii-converter
 zignd.html-css-class-completion
+zjcompt.es6-string-javascript
