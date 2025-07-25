@@ -5,7 +5,6 @@ akamud.vscode-caniuse
 alefragnani.bookmarks
 alexcvzz.vscode-sqlite
 alexey-strakh.stackoverflow-search
-amazonwebservices.amazon-q-vscode
 anbuselvanrocky.bootstrap5-vscode
 angular.ng-template
 anweber.httpbook-monacorenderer
