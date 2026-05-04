@@ -1,8 +1,6 @@
 # VSCodeExtensionInstaller
 
-![HitCounter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTechnetium1%2FVSCodeExtensionInstaller&count_bg=%2324CC11&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false) [![GitHub All Releases](https://img.shields.io/github/downloads/Technetium1/VSCodeExtensionInstaller/total?color=24CC11&label=Total%20Downloads&logo=GitHub)](https://github.com/Technetium1/VSCodeExtensionInstaller/releases/latest)
-
----
+[![GitHub All Releases](https://img.shields.io/github/downloads/Technetium1/VSCodeExtensionInstaller/total?color=24CC11&label=Total%20Downloads&logo=GitHub)](https://github.com/Technetium1/VSCodeExtensionInstaller/releases/latest)
 
 ## [Download latest release for Windows 10+](https://github.com/Technetium1/VSCodeExtensionInstaller/releases/latest/download/VSCodeExtensionInstaller.exe)
 - Python not required
