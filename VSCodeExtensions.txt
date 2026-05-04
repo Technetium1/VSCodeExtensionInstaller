@@ -26,6 +26,7 @@ bpruitt-goddard.mermaid-markdown-syntax-highlighting
 bradlc.vscode-tailwindcss
 budparr.language-hugo-vscode
 charliermarsh.ruff
+chrisjsewell.myst-tml-syntax
 christian-kohler.npm-intellisense
 christian-kohler.path-intellisense
 chrmarti.regex
@@ -51,6 +52,7 @@ drphrozen.escaping-characters
 dt.ghlink
 dubadub.cook
 ecmel.vscode-html-css
+editorconfig.editorconfig
 eliostruyf.vscode-front-matter
 ericadamski.carbon-now-sh
 erichbehrens.pull-request-monitor
@@ -92,6 +94,7 @@ lihui.vs-color-picker
 littlefoxteam.vscode-python-test-adapter
 lokalise.i18n-ally
 lostintangent.vsls-whiteboard
+loyieking.smalise
 mads-hartmann.bash-ide-vscode
 magicstack.magicpython
 mark-wiemer.vscode-autohotkey-plus-plus
@@ -120,6 +123,7 @@ ms-python.debugpy
 ms-python.isort
 ms-python.python
 ms-python.vscode-pylance
+ms-python.vscode-python-envs
 ms-toolsai.datawrangler
 ms-toolsai.jupyter
 ms-toolsai.jupyter-keymap
@@ -133,6 +137,7 @@ ms-vscode-remote.remote-wsl
 ms-vscode-remote.vscode-remote-extensionpack
 ms-vscode.azure-repos
 ms-vscode.cmake-tools
+ms-vscode.cpp-devtools
 ms-vscode.cpptools
 ms-vscode.cpptools-extension-pack
 ms-vscode.cpptools-themes
@@ -144,8 +149,11 @@ ms-vscode.remote-explorer
 ms-vscode.remote-repositories
 ms-vscode.remote-server
 ms-vscode.test-adapter-converter
+ms-vscode.vscode-copilot-data-analysis
+ms-vscode.vscode-copilot-vision
 ms-vscode.vscode-speech
 ms-vscode.vscode-typescript-next
+ms-vscode.vscode-websearchforcopilot
 ms-vsliveshare.vsliveshare
 naumovs.color-highlight
 nexusoft.replace-selection
@@ -189,6 +197,7 @@ sourcery.sourcery
 streetsidesoftware.code-spell-checker
 styled-components.vscode-styled-components
 sumneko.lua
+surendrajat.apklab
 swyddfa.esbonio
 syler.sass-indented
 tailscale.vscode-tailscale
@@ -206,8 +215,6 @@ tushortz.python-extended-snippets
 urin.vscode-web-visual-editor
 usernamehw.errorlens
 vincaslt.highlight-matching-tag
-visualstudioexptteam.intellicode-api-usage-examples
-visualstudioexptteam.vscodeintellicode
 vmware.vscode-boot-dev-pack
 vmware.vscode-spring-boot
 vscjava.vscode-gradle
@@ -221,6 +228,7 @@ vscode-icons-team.vscode-icons
 vsls-contrib.gistfs
 vstirbu.vscode-mermaid-preview
 vue.volar
+wcrichton.flowistry
 wemade.quasar-class-autocompletion
 wholroyd.jinja
 wix.vscode-import-cost
